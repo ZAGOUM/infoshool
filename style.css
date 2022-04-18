@@ -1,0 +1,35 @@
+.img1{
+    margin-bottom: 20px;
+}
+.footer{
+    margin-top: 50px;
+}
+.card{
+    margin-right: px;
+    border: 1px solid rgb(70, 70, 92);
+    
+}
+.card-tittle{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(19, 19, 102);
+}
+.card-text{
+    padding-left: 0px;
+    text-align: justify;
+}
+.jumbotron{
+    margin-top: 15px;
+    color: rgb(19, 19, 102);
+}
+.searh{
+    margin-bottom: 45px;
+    margin-top: 25px;
+}
+.card-img-top{
+    margin-top: 5px;
+}
+#prerequis{
+    background-color: rgb(214, 226, 245);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
